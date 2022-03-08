@@ -1,0 +1,64 @@
+body {
+  font-size: 14px;
+  line-height: 1.5;
+  font-family: "Space Mono", monospace;
+  color: #fff;
+  background-color: #000;
+  padding-left: 100px;
+}
+
+a {
+  color: grey;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fff;
+}
+
+header {
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+
+.horizontal_image {
+	max-width: 1200px;
+  margin-bottom: 90px;
+}
+
+.horizontal_image_smaller {
+  max-width: 1100px;
+  margin-bottom: 90px;
+}
+
+.vertical_image {
+  max-width: 630px;
+  margin-bottom:  50px;
+}
+
+.paragraph {
+  margin-bottom: 90px;
+  max-width: 350px;
+}
+
+.our_process {
+  margin-bottom: 50px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+hr {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 0;
+  max-width: 1100px;
+}
+
+footer {
+  background-color: #1A1A1A;
+  padding: 50px 50px 50px 50px;
+  max-width:  1100px;
+  margin-bottom: 140px;
+}
